@@ -50,7 +50,7 @@ const StatCard = ({ label, count, status }) => {
         return "text-cyan-500 bg-gray-50";
 
       case "Completed":
-        return "text-indigo-500 bg-gray-50";
+        return "text-[#7BCE00] bg-gray-50";
 
       default:
         return "text-violet-500 bg-gray-50";
